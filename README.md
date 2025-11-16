@@ -59,8 +59,9 @@ The app trains a **Linear Regression model**, selects the most significant featu
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/kaviyadharshini2805/student-final-score-predictor.git
-cd student-final-score-predictor
+git clone https://github.com/kaviyadharshini2805/Student-Mark-Prediction-ML-Model.git
+cd Student-Mark-Prediction-ML-Model
+
 ### 2️⃣ Install dependencies
 
 Copy code
